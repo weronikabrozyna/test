@@ -1,4 +1,4 @@
-print("Jaką operację chcesz wykonać?(dodawanie, odejmowanie, mnożenie, dzielenie)")
+print("Jaką operację chcesz wykonać?")
 
 operacja = input()
 print("Podaj pierwszą liczbę:")
