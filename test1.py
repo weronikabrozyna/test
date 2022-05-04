@@ -1,4 +1,5 @@
 print("Jaką operację chcesz wykonać?(dodawanie, odejmowanie, mnożenie, dzielenie)")
+
 operacja = input()
 print("Podaj pierwszą liczbę:")
 pierwsza_liczba=int(input())
